@@ -1,4 +1,3 @@
-
 var $input = $('#listinput');
 var $list = $('.list');
 
