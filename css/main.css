@@ -5,3 +5,8 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+
+.list-input {
+  text-decoration: line-through;
+}
